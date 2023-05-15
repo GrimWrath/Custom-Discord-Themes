@@ -1,5 +1,5 @@
 /**
- * @name ClearVision Grim 1.0
+ * @name ClearVision Grim 1.1
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -15,7 +15,7 @@
   --main-color: #DD1608;
   --hover-color: #AF1409;
   --success-color: #A91B11;
-  --danger-color: #405C72;
+  --danger-color: #FFEB3B;
   --url-color: var(--main-color);
   --background-image: url('https://i.ibb.co/D5GGVCR/nerv-os-logon-by-momo100100-d32y5ku.jpg');
   --background-shading: 100%;
